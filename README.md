@@ -1,4 +1,4 @@
-# Datathon 2020 - Chevron Track
+# Datathon 2020 - Chevron Track (2nd Place)
 
 - Daniel Tang
 - Alex Yang
